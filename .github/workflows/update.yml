@@ -16,7 +16,7 @@ jobs:
       - name: Update Client Strings
         uses: RedLime/mc-lang-translation-action@v2
         with: 
-          base-path: './client'
+          base-path: './'
           editable-files-path: 'TRANSLATE_ME'
       - name: Commit update lang files
         uses: endbug/add-and-commit@v9
