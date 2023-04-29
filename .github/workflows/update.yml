@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**.json'
 
 jobs:
   update_client:
@@ -20,7 +22,7 @@ jobs:
         uses: RedLime/mc-lang-translation-action@v2
         with: 
           base-path: './client'
-          editable-files-path: './TRANSLATE_ME'
+          lang-files-path: './DO_NOT_CHANGE'
       - name: Commit update lang files
         uses: endbug/add-and-commit@v9
         with:
