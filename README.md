@@ -8,7 +8,7 @@ Join our [Discord Server](https://mcsrranked.com/discord) and discuss on `#crowd
 - You must follow the format of the template.
 - Do not change anything in `DO_NOT_CHANGE` directory.
 - `Translated Platform` must be the name of the first directory. (like `client`)
-- If 2 or more of users approve, we'll review it and will be merged.
+- If 2 or more users has approved, we'll review it and will be merged.
 
 ### Contribute Translation
 - Strings must have the same or similar meaning to the original text.
