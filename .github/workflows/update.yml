@@ -9,13 +9,14 @@ jobs:
   update_client:
     runs-on: ubuntu-latest
     if: ${{ github.repository_owner == 'MCSR-Ranked' }}
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - name: Update Client Strings
         uses: RedLime/mc-lang-translation-action@v2
         with: 
           base-path: './client'
-          lang-files-path: ''
           editable-files-path: 'TRANSLATE_ME'
       - name: Commit update lang files
         uses: endbug/add-and-commit@v9
