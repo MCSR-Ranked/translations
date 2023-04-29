@@ -17,7 +17,7 @@
     "projectelo.text.matchtype.ranked": "랭크 모드",
     "projectelo.text.matchtype.ranked.description": "비슷한 실력의 상대와\n같은 시드, 같은 시간에 경쟁하세요.\n\n비슷한 Elo를 가진 플레이어와 경쟁해 Elo를 올려보세요.",
     "projectelo.text.matchtype.private": "비공개 방",
-    "projectelo.text.matchtype.event": "Event Mode",
+    "projectelo.text.matchtype.event": "이벤트 모드",
     "projectelo.text.matchtype.event.description": "Race against random players with a unique ruleset!\nThis mode won't affect your Elo rating.",
     "projectelo.text.client_version": "MCSR Ranked 클라이언트 v%s",
     "projectelo.text.match_room": "매치 방 - %s",
