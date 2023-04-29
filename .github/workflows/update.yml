@@ -23,6 +23,7 @@ jobs:
         with: 
           base-path: './client'
           lang-files-path: './DO_NOT_CHANGE'
+          editable-files-path: './'
       - name: Commit update lang files
         uses: endbug/add-and-commit@v9
         with:
