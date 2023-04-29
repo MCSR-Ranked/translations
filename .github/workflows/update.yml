@@ -1,4 +1,4 @@
-name: client
+name: Client Update
 
 on: 
   push:
