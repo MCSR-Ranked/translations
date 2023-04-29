@@ -1,3 +1,5 @@
+name: client
+
 on: 
   push:
     branches:
@@ -8,7 +10,6 @@ on:
 jobs:
   update_client:
     runs-on: ubuntu-latest
-    name: Client Update
     if: ${{ github.repository_owner == 'MCSR-Ranked' }}
     steps:
       - name: Checkout
