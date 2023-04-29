@@ -279,7 +279,7 @@
   "projectelo.option.hide_elo_score": "Elo on Match",
   "projectelo.option.hide_elo_score.description": "Hide your/opponent's elo while during match.",
   "projectelo.warning.leaderboard_discord_link": "Your profile must be linked with Discord for displays your rank in profile and leaderboard.",
-  "projectelo.warning.available_only_patreon_supporter": "Available if you are a Patreon supporter.",
+  "projectelo.warning.available_only_patreon_supporter": "Available if you are a Patreon supporter!",
   "projectelo.warning.resource_pack": "You are using illegal resource packs:",
   "projectelo.warning.not_enough_memory": "You do not have enough memory! Increase allocated memory to 2048MB or higher.",
   "projectelo.warning.ssl_exception_try_again": "An SSLHandshakeException occurred. You can try again without using SSL, but it may have secure issues. If you don't want it, update your Java.",

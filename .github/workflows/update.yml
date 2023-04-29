@@ -12,16 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.repository_owner == 'MCSR-Ranked' }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       - name: Update Client Strings
         uses: RedLime/mc-lang-translation-action@v2
         with: 
-          base-path: './client'
+          base-path: '/client'
           editable-files-path: 'TRANSLATE_ME'
       - name: Commit update lang files
         uses: endbug/add-and-commit@v9
         with:
-          add: './client'
+          add: '/client'
           message: 'chore: update lang files'
           default_author: github_actions
