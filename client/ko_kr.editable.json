@@ -67,7 +67,7 @@
     "projectelo.text.not_played_match": "아직 랭크나 클래식 매치를 플레이하지 않았습니다.",
     "projectelo.text.report_detailed_info": "신고 세부 사항을 작성해주세요...",
     "projectelo.text.manually_update": "죄송합니다, 수동으로 업데이트 해야합니다. :(",
-    "projectelo.text.failed_to_find_profile": "Failed to find profile :(",
+    "projectelo.text.failed_to_find_profile": "프로필을 불러올 수 없습니다. :(",
     "projectelo.text.season_ends": "시즌 종료",
     "projectelo.text.profile.created_time": "계정 생성",
     "projectelo.text.profile.latest_time": "마지막 플레이",
