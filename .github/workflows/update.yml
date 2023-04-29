@@ -13,8 +13,9 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-        with:
-          ref: ${{ github.ref }}
+      - name: List files in the repository
+        run: |
+            ls ${{ github.workspace }}
       - name: Update Client Strings
         uses: RedLime/mc-lang-translation-action@v2
         with: 
