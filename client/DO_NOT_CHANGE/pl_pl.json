@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Oczekiwanie na graczy...",
     "projectelo.text.roommessage.ready": "Gra rozpocznie się za %s...",
     "projectelo.text.matchtype.casual": "Tryb Nierankingowy",
-    "projectelo.text.matchtype.casual.description": "Ścigaj się z losowymi graczami. \nTen tryb nie wpłynie na twoje Elo.",
     "projectelo.text.matchtype.ranked": "Tryb Rankingowy",
-    "projectelo.text.matchtype.ranked.description": "Ścigaj się z graczem o podobnych umiejętnościach, na tym samym seedzie, w tym samym czasie.\n\nZdobywaj punkty Elo i pnij się w górę rankingu,\nrywalizując z innymi graczami o podobnym poziomie Elo.",
     "projectelo.text.matchtype.private": "Prywatny Pokój",
     "projectelo.text.client_version": "Klient MCSR Ranked v%s",
     "projectelo.text.match_room": "Poczekalnia - %s",
@@ -264,8 +262,6 @@
     "projectelo.option.enable_discord_rpc": "Wyświetlaj w Statusie Discorda",
     "projectelo.option.enable_discord_rpc.description": "Wyświetla na twoim statusie Discorda, że grasz w MCSR Ranked.",
     "projectelo.option.hide_elo_score.description": "Ukryj elo swojego przeciwnika podczas meczu.",
-    "projectelo.warning.leaderboard_discord_link": "Twój profil musi być połączony z Discordem, aby wyświetlać twoją pozycję w profilu i na tablicy wyników.",
-    "projectelo.warning.available_only_patreon_supporter": "Dostępne, jeśli jesteś wspierającym na Patreon.",
     "projectelo.warning.resource_pack": "Używasz niedozwolonych paczek zasobów:",
     "projectelo.warning.not_enough_memory": "Nie masz wystarczającej ilości pamięci RAM! Zwiększ przydzieloną pamięć do 2048 MB lub więcej.",
     "projectelo.warning.ssl_exception_try_again": "SSLHandshakeException wystąpił. Możesz spróbować ponownie bez użycia SSL, ale mogą wystąpić problemy z bezpieczeństwem. Jeśli nie chcesz tego, zaktualizuj Javę.",
@@ -273,6 +269,5 @@
     "projectelo.warning.not_available_device": "Obecnie ta funkcja nie jest dostępna na Twoim urządzeniu!",
     "projectelo.tip_message.title": "Porady!",
     "projectelo.tip_message.3": "Podoba Ci się? Wesprzyj nas na Patreonie! :)",
-    "projectelo.tip_message.4": "Spróbuj grać bez kalkulatora (Np. \"Ninjabrain bot\").",
-    "projectelo.tip_message.6": "§m Generowanie uszkodzonego portal roomu..."
+    "projectelo.tip_message.4": "Spróbuj grać bez kalkulatora (Np. \"Ninjabrain bot\")."
 }

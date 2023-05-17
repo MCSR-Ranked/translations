@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Esperando a los jugadores...",
     "projectelo.text.roommessage.ready": "La partida comenzará en %s segundo(s)...",
     "projectelo.text.matchtype.casual": "Modo Casual",
-    "projectelo.text.matchtype.casual.description": "Compite en modo casual contra otros jugadores. \nEste modo no afectará tu puntuación de Elo.",
     "projectelo.text.matchtype.ranked": "Modo Clasificatoria",
-    "projectelo.text.matchtype.ranked.description": "Compite contra un oponente con habilidad similar,\nen la misma semilla al mismo tiempo.\n\nIntenta mejorar tu Elo\ncompitiendo contra otro jugador con Elo similar.",
     "projectelo.text.matchtype.private": "Sala Privada",
     "projectelo.text.match_room": "Sala de Partidas - %s",
     "projectelo.text.match_code": "Código de la sala: ",
@@ -199,7 +197,6 @@
     "projectelo.option.chat_filter.description": "Filtra malas palabras en el Chat en Vivo de la Partida",
     "projectelo.option.mute_player": "Silenciar %s",
     "projectelo.option.hide_profile.description": "Muestra anónimamente tu perfil a los oponentes en partidas clasificatorias. Se revelará de forma inmediata después de que la partida termine.",
-    "projectelo.warning.available_only_patreon_supporter": "Disponible si eres un mecena de Patreon.",
     "projectelo.warning.resource_pack": "Estás usando paquetes de recursos ilegales:",
     "projectelo.warning.not_enough_memory": "¡No tienes suficiente memoria! Aumenta la memoria asignada a 2048 MB o más."
 }

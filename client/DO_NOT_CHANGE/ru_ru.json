@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Ожидание игроков...",
     "projectelo.text.roommessage.ready": "Матч, начинающийся через %s секунд...",
     "projectelo.text.matchtype.casual": "Небрежный козел",
-    "projectelo.text.matchtype.casual.description": "Случайная гонка против случайных игроков.\nЭтот режим не повлияет на ваш рейтинг Эло.",
     "projectelo.text.matchtype.ranked": "Рейтинговый режим",
-    "projectelo.text.matchtype.ranked.description": "Гонка против противника аналогичного навыка,\nв то же самое время в семенах...\n\nПопробуйте улучшить свой Эло, состязавшись с другим игроком с Эло.",
     "projectelo.text.matchtype.private": "Отдельный зал",
     "projectelo.text.client_version": "MCSR рейтинг клиента v%s",
     "projectelo.text.match_room": "Матч - %s",
@@ -164,7 +162,6 @@
     "projectelo.option.max_world_save.description": "Если у вас Ранг мира больше, чем это значение, старейший Ранг будет удален.",
     "projectelo.option.enable_discord_rpc": "Показать на активности Discord",
     "projectelo.option.enable_discord_rpc.description": "Показывает, что вы играете в MCSR в рейтинге вашей активности Discord.",
-    "projectelo.warning.available_only_patreon_supporter": "Доступно, если вы сторонник Patreon.",
     "projectelo.warning.resource_pack": "Вы используете незаконные наборы ресурсов:",
     "projectelo.warning.not_enough_memory": "У вас недостаточно памяти! Увеличьте выделенную память до 2048МБ или выше."
 }
