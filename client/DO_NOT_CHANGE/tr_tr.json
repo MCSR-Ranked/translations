@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Oyuncu bekleniyor...",
     "projectelo.text.roommessage.ready": "Oyun %s saniye içinde başlıyor...",
     "projectelo.text.matchtype.casual": "Derecesiz Mod",
-    "projectelo.text.matchtype.casual.description": "Rastgele oyunculara karşı derecesiz yarış.\nBu mod elo puanınızı etkilemeyecektir.",
     "projectelo.text.matchtype.ranked": "Dereceli Mod",
-    "projectelo.text.matchtype.ranked.description": "Aynı tohumda ve aynı anda oyuna başlayarak,\nYetenek seviyesi size yakın bir oyuncuya karşı yarışın.\n\nKendinize yakın Elo puanı olan kişilerle yarışarak\nElo puanınızı yükseltmeye çalışın.",
     "projectelo.text.matchtype.private": "Özel oda",
     "projectelo.text.client_version": "MCSR Dereceli Modu v%s",
     "projectelo.text.match_room": "Karşılaşma Odası - %s",
@@ -247,8 +245,6 @@
     "projectelo.option.enable_discord_rpc.description": "MCSR Ranked oynadığını discord aktivitesinde göster.",
     "projectelo.option.hide_elo_score": "Maçta Elo",
     "projectelo.option.hide_elo_score.description": "Maç Sırasında Kendinin/Rakibin Elo'sunu Sakla.",
-    "projectelo.warning.leaderboard_discord_link": "Profil Sıralamanı Gösterebilmemiz İçin Discord'unu Bağlaman Gerekiyor.",
-    "projectelo.warning.available_only_patreon_supporter": "Sadece eğer bir Patreon Destekçisi isen mevcut.",
     "projectelo.warning.resource_pack": "Yasaklı kaynak paketleri kullanıyorsunuz:",
     "projectelo.warning.not_enough_memory": "Belleğiniz yetersiz! Oyuna adanmış belleği 2048MB veya daha yükseğe arttırın.",
     "projectelo.warning.ssl_exception_try_again": "Bir SSLHandshakeException oluştu. SSL kullanmadan tekrar deneyebilirisiniz ancak güvenlik sorunları olabilir. Eğer bunu istemiyorsanız, Java'nızı güncelleyiniz.",
@@ -263,6 +259,5 @@
     "projectelo.tip_message.3": "Eğleniyor musun? Lütfen bizi Pateron'da destekleyin! :)",
     "projectelo.tip_message.4": "Hesap makinesi kullanmadan oynamayı deneyin.",
     "projectelo.tip_message.5": "Yukarı doğru blok koyarken değişik basamaklar kullanın, 6 tane kütük sizi 48 blok yüksekliğe ulaştırabilir.",
-    "projectelo.tip_message.6": "§mBozuk bir portal odası oluşturuluyor...",
     "projectelo.tip_message.7": "Eğer Ranked'a yeniyseniz, biraz pratik yapmak zarar vermez ;)"
 }

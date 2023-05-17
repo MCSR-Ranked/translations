@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "正在等待玩家...",
     "projectelo.text.roommessage.ready": "对局将于 %s 秒后开始...",
     "projectelo.text.matchtype.casual": "休闲模式",
-    "projectelo.text.matchtype.casual.description": "与随机玩家进行休闲对局。\n此模式不影响您的Elo值。",
     "projectelo.text.matchtype.ranked": "排位模式",
-    "projectelo.text.matchtype.ranked.description": "使用相同的种子，\n一起与实力相近的对手进行对局，\n提升您的排名！",
     "projectelo.text.matchtype.private": "私人房间",
     "projectelo.text.client_version": "MCSR Ranked 客户端 v%s",
     "projectelo.text.match_room": "对局房间 - %s",
@@ -211,7 +209,6 @@
     "projectelo.option.max_world_save.description": "若您的Ranked世界存档数量超过这个值，则最旧的Ranked世界存档将被删除。",
     "projectelo.option.enable_discord_rpc": "在Discord活动上显示",
     "projectelo.option.enable_discord_rpc.description": "在Discord活动中显示您在游玩MCSR Ranked。",
-    "projectelo.warning.available_only_patreon_supporter": "仅Patreon赞助者可开启",
     "projectelo.warning.resource_pack": "你正在使用未经允许的资源包：",
     "projectelo.warning.not_enough_memory": "运行内存不足！请将实例内存设置为2048MB或以上。"
 }

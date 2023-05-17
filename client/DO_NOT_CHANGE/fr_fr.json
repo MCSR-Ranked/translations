@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "En attente de joueurs...",
     "projectelo.text.roommessage.ready": "Début du match dans %s seconde(s)...",
     "projectelo.text.matchtype.casual": "Mode Non Classé",
-    "projectelo.text.matchtype.casual.description": "Jouer contre des joueurs aléatoires.\nCe mode n'affectera pas votre classement.",
     "projectelo.text.matchtype.ranked": "Mode Classé",
-    "projectelo.text.matchtype.ranked.description": "Faites la course avec des joueurs du même niveau sur la même seed en même temps...\n\nEssayez d'augmenter votre Elo en affrontant d'autres joueurs avec un Elo similaire.",
     "projectelo.text.matchtype.private": "Salon privé",
     "projectelo.text.client_version": "Client MCSR Ranked v%s",
     "projectelo.text.match_room": "Salon de match - %s",
@@ -263,8 +261,6 @@
     "projectelo.option.enable_discord_rpc": "Afficher Le Statut De Jeu Sur Discord",
     "projectelo.option.enable_discord_rpc.description": "Affichez sur votre statut Discord que vous êtes en train de jouer a MCSR Ranked....",
     "projectelo.option.hide_elo_score.description": "Masquer votre Elo et l'Elo de votre adversaire pendant le match.",
-    "projectelo.warning.leaderboard_discord_link": "Votre profil doit être lié à Discord pour afficher votre classement sur votre profil et le tableau.",
-    "projectelo.warning.available_only_patreon_supporter": "Disponible si vous êtes un supporter sur Patreon.",
     "projectelo.warning.resource_pack": "Vous utilisez des packs de ressources illégaux :",
     "projectelo.warning.not_enough_memory": "Vous n'avez pas assez de mémoire ! Augmentez la mémoire allouée à 2048 Mo ou plus.",
     "projectelo.warning.ssl_exception_try_again": "Une exception de liaison SSL est survenue. Vous pouvez réessayer sans utiliser SSL, mais elle peut avoir des problèmes de sécurité. Si vous ne le voulez pas, mettez à jour votre Java.",
@@ -272,6 +268,5 @@
     "projectelo.warning.not_available_device": "Cette fonctionnalité n'est pas actuellement disponible sur votre appareil !",
     "projectelo.tip_message.title": "Conseils !",
     "projectelo.tip_message.3": "Vous aimez ? S'il vous plaît, soutenez-nous sur Patreon! :)",
-    "projectelo.tip_message.4": "Essayez de jouer sans calculatrice.",
-    "projectelo.tip_message.6": "§m Génération d'une salle de portail cassée..."
+    "projectelo.tip_message.4": "Essayez de jouer sans calculatrice."
 }
