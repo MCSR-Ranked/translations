@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "플레이어를 기다리는 중...",
     "projectelo.text.roommessage.ready": "매치가 %s초 뒤에 시작합니다...",
     "projectelo.text.matchtype.casual": "캐주얼 모드",
-    "projectelo.text.matchtype.casual.description": "다른 플레이어와 부담 없이 경쟁하세요.\n이 모드는 Elo 점수에 영향을 끼치지 않습니다.",
     "projectelo.text.matchtype.ranked": "랭크 모드",
-    "projectelo.text.matchtype.ranked.description": "비슷한 실력의 상대와\n같은 시드, 같은 시간에 경쟁하세요.\n\n비슷한 Elo를 가진 플레이어와 경쟁해 Elo를 올려보세요.",
     "projectelo.text.matchtype.private": "비공개 방",
     "projectelo.text.matchtype.event": "이벤트 모드",
     "projectelo.text.client_version": "MCSR Ranked 클라이언트 v%s",
@@ -200,7 +198,6 @@
     "projectelo.option.chat_filter.description": "매치의 실시간 채팅에서 비속어를 필터링합니다",
     "projectelo.option.mute_player": "%s 차단",
     "projectelo.option.hide_profile.description": "랭크 매치에서 상대방에게 익명으로 프로필을 표시합니다. 매치가 종료되면 즉시 공개됩니다.",
-    "projectelo.warning.available_only_patreon_supporter": "Patreon 지원자만 사용할 수 있습니다.",
     "projectelo.warning.resource_pack": "허용되지 않은 리소스팩을 사용하고 있습니다:",
     "projectelo.warning.not_enough_memory": "메모리가 부족합니다! 메모리를 2048MB 이상으로 할당하세요."
 }

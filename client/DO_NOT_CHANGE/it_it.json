@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "In attesa dei giocatori...",
     "projectelo.text.roommessage.ready": "Partita iniziata tra %s secondo%s...",
     "projectelo.text.matchtype.casual": "Modalità Casual",
-    "projectelo.text.matchtype.casual.description": "Corsa casualmente contro giocatori casuali.\nQuesta modalità non influenzerà la tua valutazione elo.",
     "projectelo.text.matchtype.ranked": "Modalità Ranked",
-    "projectelo.text.matchtype.ranked.description": "Corsa contro un avversario di abilità simile,\nnello stesso seme allo stesso tempo.\n\nProva a migliorare il tuo Elo\ncompetendo con un altro giocatore con Elo simile.",
     "projectelo.text.matchtype.private": "Stanza Privata",
     "projectelo.text.client_version": "Client MCSR Ranked v%s",
     "projectelo.text.match_room": "Stanza partita - %s",
@@ -210,7 +208,6 @@
     "projectelo.option.max_world_save.description": "Se il numero dei mondi è più di questo valore, il mondo più vecchio sarà eliminato.",
     "projectelo.option.enable_discord_rpc": "Mostra in Attività Discord",
     "projectelo.option.enable_discord_rpc.description": "Mostra che stai Giocando a MCSR Ranked sulla tua attività Discord.",
-    "projectelo.warning.available_only_patreon_supporter": "Disponibile se sei un sostenitore Patreon.",
     "projectelo.warning.resource_pack": "Stai usando texture pack illegali:",
     "projectelo.warning.not_enough_memory": "Non hai abbastanza memoria RAM! Aumenta la memoria allocata a 2048MB o più.",
     "projectelo.warning.ssl_exception_try_again": "Si è verificato un SSLHandshakeException. Puoi riprovare senza utilizzare SSL, ma potrebbe avere problemi di sicurezza. Se non lo vuoi, aggiorna il tuo Java."

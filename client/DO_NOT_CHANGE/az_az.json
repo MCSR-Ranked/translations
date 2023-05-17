@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Oyunçular üçün gözlənir...",
     "projectelo.text.roommessage.ready": "Oyun %s saniyə() içərisində başladılır...",
     "projectelo.text.matchtype.casual": "Dərəcəsiz Mod",
-    "projectelo.text.matchtype.casual.description": "Təsadüfi oyunçulara qarşı yarış.\nBu mod sizin elo reytinqinizə təsir etməyəcək.",
     "projectelo.text.matchtype.ranked": "Dərəcəli Mod",
-    "projectelo.text.matchtype.ranked.description": "Bənzər bacarıqlı bir rəqiblə yarışın,\neyni zamanda eyni toxumda..\n\nElo-nu təkmilləşdirməyə çalışın\noxşar Elo ilə başqa bir oyunçu ilə rəqabət edərək.",
     "projectelo.text.matchtype.private": "Şəxsi Otaq",
     "projectelo.text.client_version": "MCSR Ranked Modu v%s",
     "projectelo.text.match_room": "Oyun Otağı - %s",
@@ -192,7 +190,6 @@
     "projectelo.option.chat_filter.description": "Pis sözləri Oyunda Canlı Söhbətdə filterləyin",
     "projectelo.option.mute_player": "%s oyunçusunu susturun",
     "projectelo.option.hide_profile.description": "Dərəcəli oyunlarda profilinizi rəqiblərə anonim şəkildə göstərin. Bu, oyun bitdikdən dərhal sonra məlum olacaq.",
-    "projectelo.warning.available_only_patreon_supporter": "Əgər Patreon dəstəkçisisinizsə əlçatandır.",
     "projectelo.warning.resource_pack": "Qanunsuz resurs paketləri işlədirsiniz:",
     "projectelo.warning.not_enough_memory": "Kifayət qədər yaddaşınız (RAM) yoxdur! Ayrılmış yaddaşı (RAM) 2048 MB və ya daha yüksəkə qədər artırın."
 }

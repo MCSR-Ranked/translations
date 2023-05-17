@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Đang chờ người chơi...",
     "projectelo.text.roommessage.ready": "Trận đấu bắt đầu sau %s giây...",
     "projectelo.text.matchtype.casual": "Chế độ giải trí",
-    "projectelo.text.matchtype.casual.description": "Chạy đua giải trí với những người chơi ngẫu nhiên.\nChế độ này sẽ không ảnh hưởng đến xếp hạng Elo của bạn.",
     "projectelo.text.matchtype.ranked": "Chế độ xếp hạng",
-    "projectelo.text.matchtype.ranked.description": "Chạy đua với một đối thủ có kỹ năng tương tự,\ntrong cùng một seed cùng một lúc..\n\nCố gắng cải thiện Elo của bạn\nbằng cách thi đấu với người chơi khác có Elo tương tự.",
     "projectelo.text.matchtype.private": "Phòng riêng",
     "projectelo.text.client_version": "Máy khách MCSR Ranked v%s",
     "projectelo.text.match_room": "Phòng đấu - %s",
@@ -238,7 +236,6 @@
     "projectelo.option.enable_discord_rpc": "Hiển thị trên hoạt động Discord",
     "projectelo.option.enable_discord_rpc.description": "Hiển thị rằng bạn đang chơi MCSR Ranked trên hoạt động Discord của bạn.",
     "projectelo.option.hide_elo_score.description": "Ẩn elo của bạn/đối thủ trong trận đấu.",
-    "projectelo.warning.available_only_patreon_supporter": "Có sẵn nếu bạn là người ủng hộ trên Patreon.",
     "projectelo.warning.resource_pack": "Bạn đang sử dụng gói tài nguyên bất hợp pháp:",
     "projectelo.warning.not_enough_memory": "Bạn không có đủ bộ nhớ! Tăng bộ nhớ được phân bổ lên 2048MB hoặc cao hơn.",
     "projectelo.warning.ssl_exception_try_again": "Đã xảy ra SSLHandshakeException. Bạn có thể thử lại mà không cần sử dụng SSL, nhưng nó có thể có vấn đề về bảo mật. Nếu bạn không muốn, hãy cập nhật Java của bạn."

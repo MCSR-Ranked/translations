@@ -14,7 +14,6 @@
     "projectelo.text.roommessage.ready": "Match startet in %s Sekunde(n)...",
     "projectelo.text.matchtype.casual": "Casual-Modus",
     "projectelo.text.matchtype.ranked": "Rangliste Modus",
-    "projectelo.text.matchtype.ranked.description": "Wette gegen einen Gegner mit ähnlicher Fertigkeit,\nim selben Samen zur gleichen Zeit..\n\nVersuchen Sie, Ihr Elo\nzu verbessern, indem Sie mit einem anderen Spieler mit ähnlichen Elo konkurrieren.",
     "projectelo.text.matchtype.private": "Privater Raum",
     "projectelo.text.match_room": "Match Raum - %s",
     "projectelo.text.match_code": "Spiel-Code: ",

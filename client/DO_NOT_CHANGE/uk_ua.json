@@ -13,9 +13,7 @@
     "projectelo.text.roommessage.idle": "Очікування гравців...",
     "projectelo.text.roommessage.ready": "Матч почнеться за %s секунд(и)... ",
     "projectelo.text.matchtype.casual": "Звичайний режим",
-    "projectelo.text.matchtype.casual.description": "Невимушено змагайтесь проти випадкових гравців.\nЦей режим не вплине на ваш рейтинг Elo.",
     "projectelo.text.matchtype.ranked": "Рейтинговий режим",
-    "projectelo.text.matchtype.ranked.description": "Змагайся одночасно з супротивником подібного рівня,\nна тому ж самому ключі генерації світу.\n\nСпробуйте поліпшити свій Elo,\nзмагаючись проти іншого гравця зі схожим Elo.",
     "projectelo.text.matchtype.private": "Приватна кімната",
     "projectelo.text.client_version": "MCSR Ranked клієнт версії %s",
     "projectelo.text.match_room": "Кімната матчу - %s",
@@ -231,13 +229,10 @@
     "projectelo.option.mute_match": "Вимкнути звук протягом цього матчу",
     "projectelo.option.hide_profile.description": "Анонімно показувати ваш профіль противникам в рейтингових матчах. Він буде виявлений відразу після закінчення матчу.",
     "projectelo.option.enable_discord_rpc": "Показувати в активності Discord",
-    "projectelo.warning.leaderboard_discord_link": "Ваш профіль повинен бути прив'язаний до Discord, щоб показувати ваш ранг в профілі й в таблиці лідерів.",
-    "projectelo.warning.available_only_patreon_supporter": "Доступно, якщо ви підтримуєте Patreon.",
     "projectelo.warning.resource_pack": "Ви використовуєте неприпустимі пакети ресурсів:",
     "projectelo.warning.not_enough_memory": "Не вистачає пам'яті! Збільште виділену пам'ять до 2048МБ або вище.",
     "projectelo.warning.not_available_device": "На цей момент ця функція недоступна на вашому пристрої!",
     "projectelo.tip_message.title": "Поради:",
     "projectelo.tip_message.3": "Вам подобається? Будь ласка, підтримайте нас на Patreon! :)",
-    "projectelo.tip_message.4": "Спробуйте грати без калькулятора.",
-    "projectelo.tip_message.6": "§m Генерування зламаної кімнати порталу..."
+    "projectelo.tip_message.4": "Спробуйте грати без калькулятора."
 }
