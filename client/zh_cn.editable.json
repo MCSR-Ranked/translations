@@ -25,7 +25,7 @@
     "projectelo.text.insert_match_code": "请输入对局房间号…",
     "projectelo.text.search_user_profile": "玩家昵称...",
     "projectelo.text.failed_load_match_data": "未能查询到对局资料。:(",
-    "projectelo.text.failed_load_timeline": "此局似乎没有对局时间线记录。:(", 
+    "projectelo.text.failed_load_timeline": "此局似乎没有对局时间线记录。:(",
     "projectelo.text.failed_find_match.not_found_room": "未能找到对局房间。:(",
     "projectelo.text.failed_find_match.maintaining": "伺服器正进行维修，无法寻找对局：请查询 Discord 伺服器。",
     "projectelo.text.failed_find_match.already_playing": "您似乎已加入对局：这可能是错误，请报告。",
