@@ -6,6 +6,7 @@
     "projectelo.text.socketmessage.error": "서버 오류에 의해 서버에 연결을 실패했습니다!",
     "projectelo.text.socketmessage.disconnected": "서버로부터 연결이 끊겼습니다. 인터넷이 불안정한가요?",
     "projectelo.text.socketmessage.outdated": "오래된 버전의 모드를 사용하고 있습니다!",
+    "projectelo.text.socketmessage.mojang_auth_error": "Minecraft Auth API로부터 인증 데이터를 불러오는데 실패했습니다. 런처와 게임을 다시 시작해보세요.",
     "projectelo.text.socketmessage.ssl_verify_error": "SSL handshake 인증에 실패했습니다. 자바(버전 16 이상) 업데이트를 시도하세요.",
     "projectelo.text.roommessage.none": "방 초기화 중...",
     "projectelo.text.roommessage.finding": "매치 방을 찾는 중...",
