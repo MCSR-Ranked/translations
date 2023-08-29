@@ -6,7 +6,6 @@
     "projectelo.text.socketmessage.error": "Kan geen verbinding maken met de server door een serverfout!",
     "projectelo.text.socketmessage.disconnected": "Verbinding met de server verbroken. Is je internet stabiel?",
     "projectelo.text.socketmessage.outdated": "Je gebruikt een verouderde versie van de mod!",
-    "projectelo.text.socketmessage.mojang_auth_error": "Speler verificatiegegevens konden niet worden geladen vanuit de Minecraft Auth API",
     "projectelo.text.socketmessage.ssl_verify_error": "Authenticatie van de SSL handshake mislukt. Probeer uw Java bij te werken naar de nieuwste versie.",
     "projectelo.text.roommessage.none": "Ruimtes aan het initialiseren...",
     "projectelo.text.roommessage.finding": "Spel ruimte aan het zoeken...",

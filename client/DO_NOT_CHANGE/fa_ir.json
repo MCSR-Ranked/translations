@@ -6,7 +6,6 @@
     "projectelo.text.socketmessage.error": "اتصال به سرور به دلیل مشکلی از سمت سرور موفق نبود!",
     "projectelo.text.socketmessage.disconnected": "اتصال شما از سرور قطع شد. آیا اتصال اینترنت شما پایدار است؟",
     "projectelo.text.socketmessage.outdated": "نسخه مود شما قدیمی است!",
-    "projectelo.text.socketmessage.mojang_auth_error": "اطلاعات احراز هویت اکانت از سمت سرور احراز هویت ماینکرفت دریافت نشد",
     "projectelo.text.socketmessage.ssl_verify_error": "عملیات تایید اعتبار SSL hanshake انجام نشد. لطفا جاوای خود را به جدیدترین نسخه به روز کنید.",
     "projectelo.text.roommessage.none": "در حال آماده سازی اتاق...",
     "projectelo.text.roommessage.finding": "پیدا کردن یک حریف...",
@@ -110,12 +109,9 @@
     "projectelo.tooltip.seed_vote.like": "اسپیدران کردن این سید را دوست داشتم",
     "projectelo.tooltip.seed_vote.dislike": "اسپیدران کردن این سید را دوست نداشتم",
     "projectelo.tooltip.click_to_open_url": "برای باز کردن مرورگرتان، کلیک کنید.",
-    "projectelo.toast.copied_match_code": "کد مسابقه کپی شد.",
-    "projectelo.toast.copied_seed": "سید کپی شد.",
     "projectelo.toast.player_left_match": "§e%s مسابقه را ترک کرد",
     "projectelo.toast.player_reconnect": "§e%s دوباره متصل شد",
     "projectelo.toast.linked_third_party": "شما با موفقیت با %s متصل شدید",
     "projectelo.toast.blocked_feature": "شما نمی توانید از این قابلیت در حین مسابقه استفاده کنید",
-    "projectelo.toast.blocked_feature_private": "شما نمی توانید از این قابلیت در حین یک مسابقه خصوصی استفاده کنید",
-    "projectelo.toast.blocked_feature_private_host": "فقط برگزار کننده می تواند از این قابلیت در حین یک مسابقه خصوصی استفاده کند"
+    "projectelo.toast.blocked_feature_private": "شما نمی توانید از این قابلیت در حین یک مسابقه خصوصی استفاده کنید"
 }
