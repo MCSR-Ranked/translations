@@ -242,7 +242,7 @@
   "projectelo.queue_type.matchmaking.description": "调整匹配玩家的精度。精度越高匹配时间越长。",
   "projectelo.tooltip.copy_match_code": "点击复制房间ID。",
   "projectelo.tooltip.copy_seed": "点击复制种子。",
-  "projectelo.tooltip.toggle_match_code_visibility": "点击显示/隐藏房间ID",
+  "projectelo.tooltip.toggle_match_code_visibility": "点击显示/隐藏房间ID。",
   "projectelo.tooltip.support_badge": "Patreon 支持者徽章",
   "projectelo.tooltip.match_spectator": "比赛旁观者账户",
   "projectelo.tooltip.seed_vote.like": "我喜欢这个种子",
