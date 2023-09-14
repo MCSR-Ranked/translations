@@ -5,6 +5,5 @@
     "projectelo.text.socketmessage.verification_failed": "Неуспешно подтвърждаване на акаунта! Опитайте да рестартирате играта.",
     "projectelo.text.socketmessage.error": "Неуспешно свързване със сървъра поради грешка в сървъра!",
     "projectelo.text.socketmessage.disconnected": "Прекъсната връзка със сървъра. Вашият интернет стабилен ли е?",
-    "projectelo.text.socketmessage.outdated": "Използвате остаряла версия на мода!",
-    "projectelo.text.socketmessage.mojang_auth_error": "Данните за удостоверяване на играча не можаха да бъдат заредени от Minecraft Auth API"
+    "projectelo.text.socketmessage.outdated": "Използвате остаряла версия на мода!"
 }
