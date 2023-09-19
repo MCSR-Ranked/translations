@@ -433,4 +433,14 @@
     "projectelo.tip_message.45": "Seed-Typen werden von der Elo der Spieler beeinflusst. Spieler mit niederer Elo bekommen üblicherweise leichtere Seeds.",
     "projectelo.tip_message.46": "Die vorgesehene Netherfestung ist immer maximal 17 Chunks von der Bastion entfernt. Du kannst das Kuchendiagramm verwenden, um die Richtung herauszufinden.",
     "projectelo.tip_message.47": "Es gibt 4 Ränge welche sich über einen Elo-Bereich von 0-2400 erstrecken: Kohle, Eisen, Gold und Diamant. Jeder dieser Ränge ist wiederum in 3 Stufen aufgeteilt."
+    "projectelo.text.search_replay": "Replay mit Namen suchen",
+    "projectelo.text.downloading_replay_failed": "Replay konnte nicht heruntergeladen werden.",
+    "projectelo.text.queue_in_background_cancel": "Drücke Strg+Z um die Suche abzubrechen.",
+    "projectelo.toast.success": "Erfolgreich!",
+    "projectelo.toast.Failed": "Fehlgeschlagen :(",
+    "projectelo.toast.replay_download_success": "Replay erfolgreich Heruntergeladen!",
+    "projectelo.button.check_match_info": "Match-Info Öffnen",
+    "projectelo.button.download_replay": "Replay Herunterladen",
+    "projectelo.button.download_replay.description": "Du kannst Replays von vergangenen Matches Herunterladen",
+    "projectelo.button.queue_in_background": "Im Hintergrund Suchen"
 }
