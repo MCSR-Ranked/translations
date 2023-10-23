@@ -435,7 +435,7 @@
     "projectelo.toast.replay_change_fail": "回放修改失败！请检查您最新的log文件！",
     "projectelo.text.search_replay": "搜索回放",
     "projectelo.text.downloading_replay_failed": "回放数据下载失败",
-    "projectelo.text.queue_in_background_cancel": "按下 Ctrl+Z 即可取消匹配队列",
+    "projectelo.text.queue_in_background_cancel": "按下 Ctrl+Z 即可取消队列",
     "projectelo.toast.success": "成功",
     "projectelo.toast.Failed": "失败",
     "projectelo.toast.replay_download_success": "成功下载回放文件",
