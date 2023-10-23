@@ -186,7 +186,7 @@
     "projectelo.match_flag.filtered_seed": "使用筛选过的种子",
     "projectelo.match_flag.filtered_seed.description": "如果你在世界种子上留空，将会使用筛过的随机种子。",
     "projectelo.match_flag.igt_mode": "游戏内时间 (IGT) 模式",
-    "projectelo.match_flag.igt_mode.description": "计时将使用游戏内时间 (IGT) 而不是现实时间 (RTA)。如果禁用了 '等待全员完成' 的设置，中最先完成目标的玩家仍然会获胜。",
+    "projectelo.match_flag.igt_mode.description": "计时将使用游戏内时间 (IGT) 而不是现实时间 (RTA)。如果禁用了 '等待全员完成' 的设置，最先完成目标的玩家仍然会获胜。",
     "projectelo.match_flag.show_advancement": "显示进度消息",
     "projectelo.match_flag.show_advancement.description": "当有玩家完成进度时，显示他们完成的进度。",
     "projectelo.match_flag.show_first_advancement_only": "只显示一次进度",
