@@ -17,7 +17,7 @@
     "projectelo.text.matchtype.ranked": "Рейтинговий режим",
     "projectelo.text.matchtype.ranked.description": "Змагайтеся проти суперника з подібним рівнем вмінь,\nна тому ж самому сіді та в один і той же час.\n\nСпробуйте підвищити свій рейтинг ELO,\nзмагаючись проти іншого гравця з подібним ELO.",
     "projectelo.text.matchtype.private": "Приватна кімната",
-    "projectelo.text.matchtype.event": "Тимчасова подія", // translated as temporary event as it makes more sense this way, in fact translation is - режим події (mode event)
+    "projectelo.text.matchtype.event": "Тимчасова подія", 
     "projectelo.text.matchtype.event.description": "Змагайтеся проти випадкових гравців за унікальними правилами!\nЦей режим не впливає на ваш рейтинг ELO.",
     "projectelo.text.client_version": "MCSR Ranked клієнт версії %s",
     "projectelo.text.match_room": "Кімната матчу - %s",
