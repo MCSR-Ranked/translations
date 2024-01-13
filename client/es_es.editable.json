@@ -315,7 +315,7 @@
     "projectelo.tip_message.25": "Los piglins se alteran cuando están cerca de 16 bloques de distancia del jugador que está rompiendo bloques de oro o abriendo cofres.",
     "projectelo.tip_message.26": "Cuando están alterados, los piglis con vida completa están dispuestos a caer 5 bloques en Fácil, 9 bloques en Normal y 13 en Difícil.",
     "projectelo.tip_message.27": "Con 3 esmeraldas puedes comprar un cubo de agua con bacalao a un pescador, 18 panes a un granjero o un hacha de hierro a un herrero.",
-    "projectelo.tip_message.28": "Algunas criaturas reducen la posibilidad de spawneo de criaturas similares, como los esqueletos en los Soul Sand Valley y los endermans en los Warped Forests.",   
+    "projectelo.tip_message.28": "Algunas criaturas reducen la posibilidad de spawneo de criaturas similares, como los esqueletos en los Soul Sand Valley y los endermans en los Warped Forests.",
     "projectelo.tip_message.29": "Los bloques de arena de almas tienen una altura de 0.875, en comparación con la altura de 1 bloque del resto, incluida la tierra de almas.",
     "projectelo.tip_message.30": "Los piglins son agresivos naturalmente a los esqueletos de Wither pero no a los Hoglis que aparecen naturalmente en los bastiones.",
     "projectelo.tip_message.31": "Criaturas como piglins y esquelos de Wither intentarán evitar caminar hacia la lava, el fuego y los bloques de magma.",
@@ -442,5 +442,6 @@
     "projectelo.button.check_match_info": "Abrir Información de Partida",
     "projectelo.button.download_replay": "Descargar Repetición",
     "projectelo.button.download_replay.description": "Puedes descargar repeticiones de las partidas recientes",
-    "projectelo.button.queue_in_background": "En Cola en segundo plano"
+    "projectelo.button.queue_in_background": "En Cola en segundo plano",
+    "projectelo.text.queue_in_background_cancel": "Press Ctrl+Z to Cancel the Queue."
 }
