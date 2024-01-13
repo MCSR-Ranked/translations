@@ -432,5 +432,15 @@
     "projectelo.option.pre_generate_all_dimensions.description": "Nếu bạn kích hoạt nó, thế giới sẽ được tạo ra ở tất cả các chiều không gian khi bạn bắt đầu trận đấu. Tăng thời gian tạo thế giới nhưng giảm thời gian tải khi vào các chiều không gian.\n(Bởi Quesia)",
     "projectelo.option.notify_background_chat": "Thông báo trò chuyện trong nền",
     "projectelo.option.notify_background_chat.description": "Bạn sẽ nhận được âm thanh thông báo khi nhận được cuộc trò chuyện nếu phiên bản của bạn không được tập trung",
-    "projectelo.warning.mac_os_sodium": "Bạn hiện đang sử dụng MacOS nhưng 'Sodium' của bạn không phải là phiên bản MacOS. Bạn có muốn mở trang tải xuống phiên bản Sodium của MacOS không?"
+    "projectelo.warning.mac_os_sodium": "Bạn hiện đang sử dụng MacOS nhưng 'Sodium' của bạn không phải là phiên bản MacOS. Bạn có muốn mở trang tải xuống phiên bản Sodium của MacOS không?",
+    "projectelo.text.search_replay": "Search by replay name",
+    "projectelo.text.downloading_replay_failed": "Failed to download replay data.",
+    "projectelo.text.queue_in_background_cancel": "Press Ctrl+Z to Cancel the Queue.",
+    "projectelo.toast.success": "Success!",
+    "projectelo.toast.Failed": "Failed :(",
+    "projectelo.toast.replay_download_success": "Successfully downloaded this replay!",
+    "projectelo.button.check_match_info": "Open the Match Info",
+    "projectelo.button.download_replay": "Download Replay",
+    "projectelo.button.download_replay.description": "You can download replay from recent matches",
+    "projectelo.button.queue_in_background": "Queue in Background"
 }
