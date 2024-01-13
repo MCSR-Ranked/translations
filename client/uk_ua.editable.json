@@ -397,7 +397,7 @@
     "projectelo.match_flag.force_surface_blind": "Примусовий поверхневий блайнд",
     "projectelo.match_flag.force_surface_blind.description": "Перші блайнд портали будуть створюватися в світі вище, ніж за початкову y-висоту порталу в незері",
     "projectelo.match_flag.no_logs": "Режим без логів (для спостерігача)",
-    "projectelo.match_flag.no_logs.description": "Будь-які дані матчу не будуть збережені на сервері і фільтровані сіди не працюватимуть. Максимальне обмеження гравців збільшуєтся до 300. (Перегляньте документацію для аккаунту спостерігача)"
+    "projectelo.match_flag.no_logs.description": "Будь-які дані матчу не будуть збережені на сервері і фільтровані сіди не працюватимуть. Максимальне обмеження гравців збільшуєтся до 300. (Перегляньте документацію для аккаунту спостерігача)",
     "projectelo.achievement.playoffs_place_winner": "Плей-офф %s: ПЕРЕМОГА",
     "projectelo.achievement.playoffs_place_2nd": "Плей-офф %s: 2-ге місце",
     "projectelo.achievement.playoffs_place_3rd": "Плей-офф %s: 3-тє місце",
