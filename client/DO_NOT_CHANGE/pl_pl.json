@@ -251,6 +251,7 @@
     "projectelo.option.chat_filter.description": "Filtrowanie wulgaryzmów na czacie podczas meczu",
     "projectelo.option.mute_player": "Wycisz %s",
     "projectelo.option.mute_match": "Wycisz podczas tego meczu",
+    "projectelo.option.hide_profile": "Mój Profil",
     "projectelo.option.hide_profile.description": "Ukrywa twoją tożsamość w meczu rankingowym, drugi gracz będzie cię widział jako \"Przeciwnik\". Twój profil zostanie ujawniony dopiero po zakończeniu meczu.",
     "projectelo.option.hide_opponent_profile.description": "Anonimowo wyświetlaj profil przeciwnika w meczach rankingowych. Zostanie on ujawniony natychmiast po zakończeniu meczu.",
     "projectelo.option.max_world_save": "Maks. Zapisy Światów",

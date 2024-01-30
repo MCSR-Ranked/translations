@@ -442,5 +442,6 @@
     "projectelo.button.check_match_info": "Match-Info Öffnen",
     "projectelo.button.download_replay": "Replay Herunterladen",
     "projectelo.button.download_replay.description": "Du kannst Replays von vergangenen Matches Herunterladen",
-    "projectelo.button.queue_in_background": "Im Hintergrund Suchen"
+    "projectelo.button.queue_in_background": "Im Hintergrund Suchen",
+    "projectelo.button.guidelines": "Guidelines"
 }

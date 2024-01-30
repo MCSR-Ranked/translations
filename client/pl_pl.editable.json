@@ -284,12 +284,6 @@
     "projectelo.warning.ssl_exception_try_again": "SSLHandshakeException wystąpił. Możesz spróbować ponownie bez użycia SSL, ale mogą wystąpić problemy z bezpieczeństwem. Jeśli nie chcesz tego, zaktualizuj Javę.",
     "projectelo.warning.atum_modified": "Używasz MCSR Ranked. Gra ma kilka zmian w rozgrywce, więc nie będzie to legalne na speedrun.com. Czy chcesz kontynuować?",
     "projectelo.warning.not_available_device": "Obecnie ta funkcja nie jest dostępna na Twoim urządzeniu!",
-    "projectelo.warning.message_too_long": "Twoja wiadomość jest zbyt długa!",
-    "projectelo.warning.message_spam": "Wysłałeś za dużo wiadomości! Spróbuj ponownie później.",
-    "projectelo.tip_message.title": "Porady!",
-    "projectelo.tip_message.0": "Wiedziałeś o tym? \"MCSR\" oznacza Minecraft Speedrunning.",
-    "projectelo.tip_message.1": "Dołącz na nasz serwer discord!",
-    "projectelo.tip_message.2": "Wszyscy gracze w meczu mają to samo RNG... poza smokiem.",
     "projectelo.warning.message_too_long": "Twoja wiadomość jest za długa!",
     "projectelo.warning.message_spam": "Wysłałeś(aś) za dużo wiadomości! Spróbój ponownie później.",
     "projectelo.tip_message.title": "Porady!",
@@ -450,4 +444,3 @@
     "projectelo.button.download_replay.description": "You can download replay from recent matches",
     "projectelo.button.queue_in_background": "Queue in Background"
 }
-
