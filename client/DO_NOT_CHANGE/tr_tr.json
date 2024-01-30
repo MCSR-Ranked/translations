@@ -141,7 +141,6 @@
     "projectelo.tooltip.copy_match_code": "Maç kodunu kopyalamak için tıkla.",
     "projectelo.tooltip.copy_seed": "Seed'i kopyalamak için tıkla.",
     "projectelo.tooltip.toggle_match_code_visibility": "Maç kodunu göstermek için tıkla.",
-    "projectelo.tooltip.support_badge": "Patreon Destek Rozeti",
     "projectelo.tooltip.match_spectator": "Maç İzleyici Hesabı",
     "projectelo.tooltip.seed_vote.like": "Bu seed'i oynamaktan haz aldım",
     "projectelo.tooltip.seed_vote.dislike": "Bu seed'i oynamaktan keyif almadım",
@@ -244,7 +243,6 @@
     "projectelo.tip_message.0": "Biliyor muydunuz? \"MCSR\", \"Minecraft Speedrunnıng\" demek.",
     "projectelo.tip_message.1": "Discord sunucumuza katılmayı unutmayın!",
     "projectelo.tip_message.2": "Maçın içerisindeki tüm oyuncular aynı şansa sahiptir... ejderha dışında.",
-    "projectelo.tip_message.3": "Eğleniyor musun? Lütfen bizi Pateron'da destekleyin! :)",
     "projectelo.tip_message.4": "Hesap makinesi kullanmadan oynamayı deneyin.",
     "projectelo.tip_message.5": "Yukarı doğru blok koyarken değişik basamaklar kullanın, 6 tane kütük sizi 48 blok yüksekliğe ulaştırabilir.",
     "projectelo.tip_message.7": "Eğer Ranked'a yeniyseniz, biraz pratik yapmak zarar vermez ;)"

@@ -160,7 +160,6 @@
     "projectelo.tooltip.copy_match_code": "Kliknij, aby skopiować kod meczu.",
     "projectelo.tooltip.copy_seed": "Kliknij, aby skopiować seed.",
     "projectelo.tooltip.toggle_match_code_visibility": "Kliknij, aby przełączyć widoczność kodu meczu.",
-    "projectelo.tooltip.support_badge": "Odznaka Wsparcia Patreon",
     "projectelo.tooltip.match_spectator": "Konto Obserwatora Meczu",
     "projectelo.tooltip.seed_vote.like": "Podobał mi się ten seed",
     "projectelo.tooltip.seed_vote.dislike": "Nie podobał mi się ten seed",
@@ -264,6 +263,5 @@
     "projectelo.warning.message_spam": "Wysłałeś(aś) za dużo wiadomości! Spróbój ponownie później.",
     "projectelo.tip_message.title": "Porady!",
     "projectelo.tip_message.0": "Wiedziałeś(aś) o tym? \"MCSR\" oznacza Minecraft Speedrunning.",
-    "projectelo.tip_message.3": "Podoba Ci się? Wesprzyj nas na Patreonie! :)",
     "projectelo.tip_message.4": "Spróbuj grać bez kalkulatora (Np. \"Ninjabrain bot\")."
 }
