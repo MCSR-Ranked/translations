@@ -476,5 +476,6 @@
     "projectelo.toast.achievement_achieved": "Achievement Achieved!",
     "projectelo.button.store": "MCSR Ranked Store",
     "projectelo.option.enable_standard_settings": "Settings Reset",
-    "projectelo.option.enable_standard_settings.description": "Your all Minecraft settings will reset to your StandardSettings options when you created the world during the match."
+    "projectelo.option.enable_standard_settings.description": "Your all Minecraft settings will reset to your StandardSettings options when you created the world during the match.",
+    "projectelo.text.incompatible_fabric": "You are using incompatible Fabric Loader!\nYou should update your Fabric Loader to latest version."
 }

@@ -145,6 +145,7 @@
     "projectelo.text.queue_in_background_cancel": "Press Ctrl+Z to Cancel the Queue.",
     "projectelo.text.phase_points": "Phase Points",
     "projectelo.text.opponent_typing": "Opponent is typing",
+    "projectelo.text.incompatible_fabric": "You are using incompatible Fabric Loader!\nYou should update your Fabric Loader to latest version.",
     "projectelo.info.show_info": "Right click to see more information!",
     "projectelo.info.ranks": "Ranks",
     "projectelo.info.ranks.unrated": "Unrated players must complete 5 placement matches, after which they will be placed at a rank close to their skill level.",
